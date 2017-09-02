@@ -1,0 +1,9 @@
+# version.py
+#
+# Copyright (c) 2017 endaaman
+#
+# This software may be modified and distributed under the terms
+# of the MIT license. See the LICENSE file for details.
+
+VERSION = '''@PACKAGE_VERSION@'''
+PACKAGE_NAME = '''@PACKAGE_NAME@'''
